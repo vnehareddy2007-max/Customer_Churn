@@ -226,3 +226,9 @@ Possible enhancements include:
 
 This project demonstrates a complete machine learning workflow for customer churn prediction, from exploratory data analysis and preprocessing to model comparison and deployment. Multiple algorithms were evaluated using comprehensive performance metrics rather than accuracy alone. Based on the experimental results, Random Forest was selected as the final model due to its superior ROC-AUC score and balanced classification performance, making it well-suited for identifying customers at risk of churn.
 
+ROC Curve Comparision
+<img width="862" height="677" alt="Screenshot (265)" src="https://github.com/user-attachments/assets/d26eb5df-914f-49df-8777-66e6070ac21e" />
+
+Streamlit app interface
+<img width="1920" height="910" alt="Screenshot (272)" src="https://github.com/user-attachments/assets/b10201e0-12dc-456c-9851-b33861692e18" />
+<img width="1920" height="914" alt="Screenshot (273)" src="https://github.com/user-attachments/assets/1de01cdb-a38f-415a-9e1f-c31ac660ba40" />
